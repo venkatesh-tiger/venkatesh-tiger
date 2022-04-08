@@ -1,1 +1,2 @@
 created a file in gitprojects folder
+New line is added to git1
