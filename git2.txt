@@ -1,1 +1,2 @@
 second file of git is created
+we are making changes in this second file
